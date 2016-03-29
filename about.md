@@ -1,6 +1,10 @@
 ---
 layout: page
-title: About me 
+title: About
+permalink: /about/
 ---
+*Arctic Fox* is a lightweight and customisable Jekyll Theme.
 
-This is a static page. It could be an 'about page' if you'd like.
+* Author: Camille Diez
+* Github: http://github.com/diezcami
+* Portfolio: http://diezcami.github.io
